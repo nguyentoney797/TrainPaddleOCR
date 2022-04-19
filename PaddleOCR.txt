@@ -1,0 +1,14 @@
+python 3.7.8 64bit  https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe
+pyqt5
+opencv-python==4.2.0.32
+pip install -- upgrade pip
+paddleocr==2.0.1
+pillow
+paddlepaddle
+pip install -U numpy(numpy.typing)
+https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.0-rc1-0
+python PPOCRLabel.py --lang ch
+https://paddle-imagenet-models-name.bj.bcebos.com/MobileNetV3_large_x0_5_pretrained.tar
+https://paddle-imagenet-models-name.bj.bcebos.com/ResNet50_vd_ssld_pretrained.tar
+
+Giaỉ nén file tar bằng: tar -xf MobileNetV3_large_x0_5_pretrained.tar

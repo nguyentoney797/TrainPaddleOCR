@@ -1,0 +1,12 @@
+D:\HuongDanTrainData\ImageData\3.jpg	1
+D:\HuongDanTrainData\ImageData\2.jpg	1
+D:\HuongDanTrainData\ImageData\1.jpg	1
+D:\HuongDanTrainData\ImageData\4.jpg	1
+D:\HuongDanTrainData\ImageData\5.jpg	1
+D:\HuongDanTrainData\ImageData\6.jpg	1
+D:\HuongDanTrainData\ImageData\7.jpg	1
+D:\HuongDanTrainData\ImageData\8.jpg	1
+D:\HuongDanTrainData\ImageData\9.jpg	1
+D:\HuongDanTrainData\ImageData\10.jpg	1
+D:\HuongDanTrainData\ImageData\11.jpg	1
+D:\HuongDanTrainData\ImageData\12.jpg	1
